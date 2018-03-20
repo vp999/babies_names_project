@@ -1,6 +1,3 @@
-import sys
-import os
-sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 import pandas as pd
 from collections import Counter
 from q01_create_dict.build import q01_create_dict

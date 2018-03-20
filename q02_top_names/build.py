@@ -1,6 +1,6 @@
 import pandas as pd
 from collections import Counter
-from q01_create_dict.build import q01_create_dict
+from greyatomlib.babies_names_project.q01_create_dict.build import q01_create_dict
 
 
 path = 'data/babies_name.csv'

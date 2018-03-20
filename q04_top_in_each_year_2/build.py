@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from q03_top_in_each_year_1.build import q03_top_in_each_year_1
+from greyatomlib.babies_names_project.q03_top_in_each_year_1.build import q03_top_in_each_year_1
 from collections import Counter
 
 path = 'data/babies_name.csv'

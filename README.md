@@ -15,4 +15,4 @@ Hello budding Data Scientists, let's try out a guided project which will enable 
 
 ## Pre-requisites
 - Working knowledge of Pandas, Numpy, Matplotlib
-- Data indexing and slicing d previously in logistic regression project which is named as Loan Prediction is used here.
+- Data indexing and slicing
